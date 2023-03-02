@@ -1,6 +1,6 @@
 # Zoom Scheduler simplest and minimal example
 
-This is an example of making a Zoom Scheduler with minimal lines of codes.
+This is an example of making a Zoom Scheduler with minimal lines of codes (it was a test to apply as CTO @eFounders).
 
 ## How to use
 
